@@ -1,9 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Keith Choa]]></title><description><![CDATA[This is my blog!]]></description><link>https://cookieth.github.io/cookieth-blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Apr 2020 15:09:08 GMT</lastBuildDate><item><title><![CDATA[Hello, World!]]></title><description><![CDATA[Hello, world! I’ve recently taught myself how to set up this blog. It’s been quite a journey. I started by brushing off my rusty JavaScript…]]></description><link>https://cookieth.github.io/cookieth-blog/hello-world/</link><guid isPermaLink="false">https://cookieth.github.io/cookieth-blog/hello-world/</guid><pubDate>Thu, 30 Apr 2020 10:48:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello, world! I’ve recently taught myself how to set up this blog. It’s been quite a journey. I started by brushing off my rusty JavaScript skills (the last time I wrote anything in JavaScript was probably 2015), sat myself in a crash course on React.js, sat myself in another crash course in gatsby.js, and started working through templates.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Keith Choa]]></title><description><![CDATA[This is my blog!]]></description><link>https://cookieth.github.io/cookieth-blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 May 2020 01:49:24 GMT</lastBuildDate><item><title><![CDATA[Hello, World!]]></title><description><![CDATA[Hello, world! I’ve recently taught myself how to set up this blog. It’s been quite a journey. I started by brushing off my rusty JavaScript…]]></description><link>https://cookieth.github.io/cookieth-blog/hello-world/</link><guid isPermaLink="false">https://cookieth.github.io/cookieth-blog/hello-world/</guid><pubDate>Thu, 30 Apr 2020 10:48:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Hello, world!&lt;/strong&gt; I’ve recently taught myself how to set up this blog. It’s been quite a journey. I started by brushing off my rusty JavaScript skills (the last time I wrote anything in JavaScript was probably 2015), sat myself in a crash course on React.js, sat myself in another crash course in gatsby.js, and started working through templates.&lt;/p&gt;
 &lt;p&gt;I found this template here, which was developed by Alexander Shelepenok: &lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot;&gt;Link to Repository&lt;/a&gt;. I came across it, as I was looking at Victor Zhou’s website on ML, and various projects (&lt;a href=&quot;https://victorzhou.com/&quot;&gt;Victor Zhou’s Website&lt;/a&gt;). However, the template was far too complicated for my needs. It had several features that I don’t really need with this blog (yet). Those were things such as CMS compatibility, a docker deployment system, flow, jest (for testing, though I’ll eventually need that), and more.&lt;/p&gt;
 &lt;p&gt;So, I came across this much more simple template here, which I was able to navigate much easier: &lt;a href=&quot;https://github.com/gatsbyjs/gatsby-starter-blog&quot;&gt;Link to Repository&lt;/a&gt;. It was developed by Kyle Matthews, the founder of Gatsby.js. It’s much more bare-bones, and I’m planning on using my knowledge of React.js and Gatsby.js to rework this site to be more than just a blog, but a showcase of the work I’ve done.&lt;/p&gt;
 &lt;p&gt;Of course, this will be a long ongoing project that I’m working on, but I hope this site will take it’s form soon.&lt;/p&gt;
+&lt;p&gt;Also, every blog post, I’m thinking of featuring one of the many film photos I took during my time in the Philippines, so here’s one for you now:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/f0881/000011.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAapJ8sOUj//EABoQAAIDAQEAAAAAAAAAAAAAAAABAgMUESL/2gAIAQEAAQUC1yNNjNFw14dfIH//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EAB0QAAIABwEAAAAAAAAAAAAAAAABEBESMTJBYZH/2gAIAQEABj8CxRrwujrKpw//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhMfH/2gAIAQEAAT8hchZ0Z83AV6Fuln0WTNXjN//aAAwDAQACAAMAAAAQN/8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EKTH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Qaf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQXFRYcH/2gAIAQEAAT8Qq2BdJhfsWGvZudSwMb1j5mQaVXEzgor2VCnA8Vc//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Observing Silence seems to be all we&amp;#39;re doing lately&quot;
+        title=&quot;Observing Silence seems to be all we&amp;#39;re doing lately&quot;
+        src=&quot;/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/1c72d/000011.jpg&quot;
+        srcset=&quot;/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/a80bd/000011.jpg 148w,
+/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/1c91a/000011.jpg 295w,
+/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/1c72d/000011.jpg 590w,
+/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/a8a14/000011.jpg 885w,
+/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/fbd2c/000011.jpg 1180w,
+/cookieth-blog/static/eea057106a41c93a0cf407a10e5ede43/f0881/000011.jpg 3637w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Until next time,&lt;/p&gt;
-&lt;p&gt;Keith Choa&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+&lt;p&gt;Keith Choa&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Learning What Ties This All Together!]]></title><description><![CDATA[Here are some things I’ve learnt about how Gatsby.js dynamically generates content: Regular Pages Regular pages, that is, hard-coded pages…]]></description><link>https://cookieth.github.io/cookieth-blog/my-second-post/</link><guid isPermaLink="false">https://cookieth.github.io/cookieth-blog/my-second-post/</guid><pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here are some things I’ve learnt about how Gatsby.js dynamically generates content:&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Regular Pages&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Regular pages, that is, hard-coded pages (such as index.html and 404.html) are stored in &lt;code class=&quot;language-text&quot;&gt;src/pages/&lt;/code&gt;. Gatsby recognizes this, and these are compiled when &lt;code class=&quot;language-text&quot;&gt;gatsby deploy&lt;/code&gt; is run.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Blog Pages&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Blog pages are not created individually. A template exists in &lt;code class=&quot;language-text&quot;&gt;src/templates/blog-post.js&lt;/code&gt; and the functions (made using a Node API) written in &lt;code class=&quot;language-text&quot;&gt;gatsby-node.js&lt;/code&gt; create the pages dynamically by using a &lt;code class=&quot;language-text&quot;&gt;GraphQL&lt;/code&gt; query to query the blog posts from &lt;code class=&quot;language-text&quot;&gt;/content/blog&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Note: “Node” is the name associated with all data added to Gatsby. I’m actually not too sure how this works. inside &lt;code class=&quot;language-text&quot;&gt;gatsby-node.js&lt;/code&gt;, there exists an &lt;code class=&quot;language-text&quot;&gt;exports.onCreateNode()&lt;/code&gt; function, which I don’t fully understand. I tried looking into the documentation, but couldn’t find much on it.&lt;/p&gt;
+&lt;h3&gt;How does the template work?&lt;/h3&gt;
+&lt;p&gt;The template takes in three sources of data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;data&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;
+an object that contains query data within src/templates/blog-post.js. This is passed in when GraphQL is run within the same javascript file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;pageContext&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;
+an object that contains data passed from &lt;code class=&quot;language-text&quot;&gt;gatsby-node.js&lt;/code&gt; This is passed as the context object in &lt;code class=&quot;language-text&quot;&gt;creatContext()&lt;/code&gt; inside of &lt;code class=&quot;language-text&quot;&gt;gatsby-node.js&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;location&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;
+an object that contains &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How does gatsby-node.js pass data?&lt;/h3&gt;
+&lt;p&gt;It uses Node API, exposed through the “exports” object. In particular, the blog uses the createPages method. This method takes in the parameters graphQL and actions from the object passed in (the template uses object deconstruction syntax).&lt;/p&gt;
+&lt;p&gt;Within that, a GraphQL query &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://cookieth.github.io/cookieth-blog/new-beginnings/</link><guid isPermaLink="false">https://cookieth.github.io/cookieth-blog/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -96,10 +147,4 @@ would be the word “and” and the Little Blind Text should turn around and ret
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://cookieth.github.io/cookieth-blog/my-second-post/</link><guid isPermaLink="false">https://cookieth.github.io/cookieth-blog/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item></channel></rss>
+for their projects again and again.&lt;/p&gt;</content:encoded></item></channel></rss>
